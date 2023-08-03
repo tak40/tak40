@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm currently a student at Scrimba's Bootcamp, working tow
 
 ---
 
-### 🛠 Launguage and Tools 
+### 🛠 Launguages and Tools 
 
 <img align="left" alt="JavaScript" width="30px" stype="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="JavaScript" width="30px" stype="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
