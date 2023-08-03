@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+**`Front-End Developer in Training | Currently Enrolled in Scrimba's Bootcamp Program`**
+
 <!--
 **tak40/tak40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
