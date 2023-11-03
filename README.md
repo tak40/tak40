@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm TK</h1>
 <h3 align="center">Front-End Developer in Training | Currently Enrolled in Scrimba's Bootcamp Program</h3>
 
-<img width="80%" margin="0 auto" alt="Make your README" src="https://github.com/tak40/tak40/assets/118142360/77ad8ab1-5fda-46db-8a79-cad1d3ee9ebb">
+<div align="center">
+    <img width="80%" alt="TK README banner" src="https://github.com/tak40/tak40/assets/118142360/77ad8ab1-5fda-46db-8a79-cad1d3ee9ebb">
+</div>
 
 
 - 🔭 I’m currently working on [Invoice Creator](https://github.com/tak40/invoice-creator)
