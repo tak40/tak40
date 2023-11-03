@@ -24,6 +24,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tak40&" alt="tak40" /></p>
 
-<img src="https://raw.githubusercontent.com/tak40/tak40/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/tak40/output/snake.svg" alt="Snake animation" />
 
 ###
