@@ -2,6 +2,8 @@
     <img width="80%" alt="TK README banner" src="https://github.com/tak40/tak40/assets/118142360/77ad8ab1-5fda-46db-8a79-cad1d3ee9ebb">
 </div>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Coding+with+a+touch+of+creativity+%F0%9F%8E%B9+%F0%9F%8E%A8)](https://git.io/typing-svg)
+
 
 - 🔭 I’m currently working on [Invoice Creator](https://github.com/tak40/invoice-creator)
 
