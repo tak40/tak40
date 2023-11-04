@@ -22,3 +22,10 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tak40&show_icons=true&locale=en&layout=compact" alt="tak40" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tak40&" alt="tak40" /></p>
+
+
+<video src="https://github.com/tak40/tak40/raw/main/assets/118142360/5e4f38ca-5406-44c7-a22e-dcf22665ef30.mp4" loop autoplay muted>
+  Your browser does not support the video tag.
+</video>
+
+
