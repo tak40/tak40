@@ -22,3 +22,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tak40&show_icons=true&locale=en&layout=compact" alt="tak40" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tak40&" alt="tak40" /></p>
+![fj](https://github.com/tak40/tak40/assets/118142360/1efde6d3-36ff-4d2b-aedc-2b70dcdea0e8)
+
+
