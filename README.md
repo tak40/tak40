@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning **LangChain, gsap**
 
+- 📝 Stay tuned for insights on my coding journey at https://dev.to/tak40 (First post coming soon!)
+
 - ⚡ Fun fact: **I’m a composer who has worked with various shows across the world, including in the US, Canada, Japan, Brazil, the Netherlands, South America, etc. I have a YouTube channel not related to coding that has 1,400 subscribers. 🎵🌍📺**
 
 <h3 align="left">Connect with me:</h3>
