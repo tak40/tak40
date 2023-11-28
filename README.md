@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Coding+with+a+touch+of+creativity+%F0%9F%8E%B9+%F0%9F%8E%A8)](https://git.io/typing-svg)
 
 
-- 🔭 I’m currently working on [Invoice Creator](https://github.com/tak40/invoice-creator)
+- 🔭 I’m currently working on [React: Markdown Notes App]([https://github.com/tak40/invoice-creator](https://github.com/tak40/markdown-notes-app))
 
 - 🌱 I’m currently learning **LangChain, gsap**
 
