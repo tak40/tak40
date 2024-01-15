@@ -2,7 +2,8 @@
     <img width="100%" alt="TK README banner" src="https://github.com/tak40/tak40/assets/118142360/77ad8ab1-5fda-46db-8a79-cad1d3ee9ebb">
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Coding+with+a+touch+of+creativity+%F0%9F%8E%B9+%F0%9F%8E%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Coding+with+a+touch+of+creativity+%F0%9F%8E%B9+%F0%9F%8E%A8;Frontend+Developer+in+Training+%F0%9F%8C%90;Music+Composer+Turned+Coder+%F0%9F%8E%B5%F0%9F%92%BB;Eager+to+Learn+and+Grow+in+Tech+%F0%9F%9A%80)](https://git.io/typing-svg)
+
 
 
 - 🔭 I’m currently working on [React: Tenzies](https://github.com/tak40/tenzies)
